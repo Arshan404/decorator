@@ -9,3 +9,5 @@ This line imports two functions from the time module:
 Definition of wrapper:
 
     The wrapper function is defined inside the timer function. This allows wrapper to have access to func, the function being decorated.
+
+    
